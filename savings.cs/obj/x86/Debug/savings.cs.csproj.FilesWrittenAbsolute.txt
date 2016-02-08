@@ -1,0 +1,7 @@
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/bin/Debug/savings.cs.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/bin/Debug/savings.cs.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/obj/x86/Debug/savings.cs.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/obj/x86/Debug/savings.cs.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/bin/Debug/ui.dll
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/savings.cs/bin/Debug/ui.dll.mdb

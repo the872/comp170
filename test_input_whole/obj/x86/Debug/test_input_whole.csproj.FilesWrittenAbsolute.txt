@@ -1,0 +1,7 @@
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/bin/Debug/test_input_whole.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/bin/Debug/test_input_whole.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/obj/x86/Debug/test_input_whole.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/obj/x86/Debug/test_input_whole.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/bin/Debug/ui.dll
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/test_input_whole/bin/Debug/ui.dll.mdb

@@ -1,0 +1,5 @@
+/Users/aididrizovic/Projects/grade_calc.cs/grade_calc.cs/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Projects/grade_calc.cs/grade_calc.cs/bin/Debug/grade_calc.cs.exe.mdb
+/Users/aididrizovic/Projects/grade_calc.cs/grade_calc.cs/bin/Debug/grade_calc.cs.exe
+/Users/aididrizovic/Projects/grade_calc.cs/grade_calc.cs/obj/x86/Debug/grade_calc.cs.exe
+/Users/aididrizovic/Projects/grade_calc.cs/grade_calc.cs/obj/x86/Debug/grade_calc.cs.exe.mdb

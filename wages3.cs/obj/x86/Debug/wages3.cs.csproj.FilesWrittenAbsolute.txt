@@ -1,0 +1,7 @@
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/bin/Debug/wages3.cs.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/bin/Debug/wages3.cs.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/obj/x86/Debug/wages3.cs.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/obj/x86/Debug/wages3.cs.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/bin/Debug/ui.dll
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/wages3.cs/bin/Debug/ui.dll.mdb

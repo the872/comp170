@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C5C3062-501B-4B68-8949-7250AD41E68E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>igame_stub</RootNamespace>
+    <AssemblyName>igame_stub</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="addition_game.cs" />
+    <Compile Include="i_game.cs" />
+    <Compile Include="play_games.cs" />
+    <Compile Include="guess_game.cs" />
+    <Compile Include="gamble.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="W11H2.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\fio\fio.csproj">
+      <Project>{7CAF1D89-69B2-4744-8081-D3745143422A}</Project>
+      <Name>fio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\COMP170\ui\ui.csproj">
+      <Project>{DC88927E-04FA-4738-A07B-D5188AEAB924}</Project>
+      <Name>ui</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

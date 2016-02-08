@@ -1,0 +1,10 @@
+/Users/aididrizovic/Projects/work/hello/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Projects/work/hello/bin/Debug/hello.exe.mdb
+/Users/aididrizovic/Projects/work/hello/bin/Debug/hello.exe
+/Users/aididrizovic/Projects/work/hello/obj/x86/Debug/hello.exe
+/Users/aididrizovic/Projects/work/hello/obj/x86/Debug/hello.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/hello/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/hello/bin/Debug/hello.exe.mdb
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/hello/bin/Debug/hello.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/hello/obj/x86/Debug/hello.exe
+/Users/aididrizovic/Box Sync/aidrizovic170 %28aidrizovic%40luc.edu%29/hello/obj/x86/Debug/hello.exe.mdb

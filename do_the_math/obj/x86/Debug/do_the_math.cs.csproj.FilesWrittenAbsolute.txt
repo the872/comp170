@@ -1,0 +1,5 @@
+/Users/aididrizovic/Projects/do_the_math.cs/do_the_math.cs/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/aididrizovic/Projects/do_the_math.cs/do_the_math.cs/bin/Debug/do_the_math.cs.exe.mdb
+/Users/aididrizovic/Projects/do_the_math.cs/do_the_math.cs/bin/Debug/do_the_math.cs.exe
+/Users/aididrizovic/Projects/do_the_math.cs/do_the_math.cs/obj/x86/Debug/do_the_math.cs.exe
+/Users/aididrizovic/Projects/do_the_math.cs/do_the_math.cs/obj/x86/Debug/do_the_math.cs.exe.mdb
